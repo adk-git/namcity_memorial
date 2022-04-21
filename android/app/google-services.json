@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "298324472133",
+    "project_id": "namcity-b7091",
+    "storage_bucket": "namcity-b7091.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298324472133:android:403b7c31530e207f3a8e2c",
+        "android_client_info": {
+          "package_name": "com.example.namcity_memorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298324472133-jqvtfi9d2nmjpr5n4rjvdctetv6cpce4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.namcity_memorial",
+            "certificate_hash": "bef7feed8bd4a20a1f7150987917fa53eaa6aa1e"
+          }
+        },
+        {
+          "client_id": "298324472133-70v2b1jj4g1lhsdj8cse8fc1djis7fbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfZ05q_Nznenip4R6aTLS7yixjq3wndsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298324472133-70v2b1jj4g1lhsdj8cse8fc1djis7fbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
